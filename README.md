@@ -1,4 +1,4 @@
-# StringToSoundAndCCode
+# TextToSoundfileAndCCode
 Converts a string to a sound. The sound is saved into a SOMENUMBER.wav and C-Code is generated to easily access the sounds.
 
 # Usage
