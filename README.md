@@ -1,6 +1,9 @@
 # TextToSoundfileAndCCode
 Converts text to "SOMENUMBER.wav". C code is generated to easily identify the right soundfiles.
 
+# Background
+Microcontroller have limited programming memory. Saving a string for each soundfile would require a lot of memory.
+
 # Prerequisites
 Install the pyttsx3 Library:
 ```
