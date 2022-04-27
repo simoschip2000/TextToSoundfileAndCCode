@@ -1,5 +1,5 @@
 # TextToSoundfileAndCCode
-Converts text to a "SOMENUMBER.wav". C code is generated to easily identify the right soundfiles.
+Converts text to "SOMENUMBER.wav". C code is generated to easily identify the right soundfiles.
 
 # Prerequisites
 Install the pyttsx3 Library:
