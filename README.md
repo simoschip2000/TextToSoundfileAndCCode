@@ -12,3 +12,4 @@ Modify the "listOfStrings" in the "Generator.py" file for your needs. Also set t
 
 # Output
 The output files are located in the "output" folder. Include the "voiceOutputNumbers.h" in your C project and easily access the right ".wav" file.
+Note that ".wav" files are generated for numerals and letters aswell according to ASCII.
