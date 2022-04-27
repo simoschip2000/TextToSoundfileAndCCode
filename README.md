@@ -1,5 +1,11 @@
 # TextToSoundfileAndCCode
-Converts text to a soundfile. The sound is saved into a SOMENUMBER.wav. C code is generated to easily identify the right soundfiles.
+Converts text to a "SOMENUMBER.wav". C code is generated to easily identify the right soundfiles.
+
+# Prerequisites
+Install the pyttsx3 Library:
+```
+pip install pyttsx3
+```
 
 # Usage
 Modify the "listOfStrings" in the "Generator.py" file for your needs. Also set the right voice according to your language and your preferences.
